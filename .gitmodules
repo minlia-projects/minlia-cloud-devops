@@ -1,0 +1,12 @@
+[submodule "minlia-thirdparty"]
+	path = minlia-thirdparty
+	url = ../minlia-thirdparty.git
+[submodule "minlia-cloud"]
+	path = minlia-cloud
+	url = ../minlia-cloud.git
+[submodule "minlia-modules"]
+	path = minlia-modules
+	url = ../minlia-modules.git
+[submodule "sample-app-rebecca"]
+	path = sample-app-rebecca
+	url = ../sample-app-rebecca.git
