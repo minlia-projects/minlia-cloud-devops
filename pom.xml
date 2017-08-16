@@ -10,8 +10,8 @@
     <name>Minlia Cloud Development</name>
 
     <modules>
-        <module>minlia-thirdparty</module>
         <module>minlia-cloud</module>
+        <module>minlia-thirdparty</module>
         <module>minlia-modules</module>
         <module>sample-app-rebecca</module>
     </modules>
