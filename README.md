@@ -11,11 +11,12 @@ curl https://pastebin.com/raw/6rJ3LwcL | sh
 ## 关于Cloud Develops
 
 
-### 为什么是MYBATIS和Data JPA
-@Dasheng 补充
+### 关于数据持久化层
+MYBATIS和Data JPA
 
 
-### 为什么使用对象而不是Map方式传递变量
+
+### 使用Map还是对象传递变量
 TypeSafe
 Too Many Conversions
 Usage Inconvenience
@@ -25,10 +26,10 @@ So
 SuccessResponseBody extends StatefulBody extends Body
 ```
 
-
 ### 便利的异常处理机制
 
 传统的异常处理机制与校验
+
 ```
 if(null!=user){
     throw new RuntimeException("UserNotFound");
