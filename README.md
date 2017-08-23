@@ -15,7 +15,7 @@ curl https://pastebin.com/raw/6rJ3LwcL | sh
 @Dasheng 补充
 
 
-### 为什么使用对象页不是Map方式传递变量
+### 为什么使用对象而不是Map方式传递变量
 TypeSafe
 Too Many Conversions
 Usage Inconvenience
