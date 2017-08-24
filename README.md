@@ -8,7 +8,7 @@ curl https://pastebin.com/raw/6rJ3LwcL | sh
 ```
 
 
-## 关于Cloud Develops
+## 关于Cloud Devops
 
 
 ### 关于数据持久化层
