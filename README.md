@@ -13,8 +13,11 @@ curl https://pastebin.com/raw/6rJ3LwcL | sh
 
 
 ### 关于数据持久化层
-[MYBATIS和Data JPA](https://github.com/minlia-projects/minlia-modules/blob/dev/will/module-data/data.md)
+[MYBATIS和Spring Data JPA](https://github.com/minlia-projects/minlia-modules/blob/dev/will/module-data/data.md)
 
+
+### 系统登录与认证
+[Spring Security + JWT](https://github.com/minlia-projects/minlia-modules/blob/dev/will/module-rebecca/security.md)
 
 
 
