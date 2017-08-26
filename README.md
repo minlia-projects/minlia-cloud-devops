@@ -74,6 +74,14 @@ languageCreationService.initialLanguage(code,message);
 ```
 
 
+### 面向前后端分离的架构
+
+
+### 组件化开发模式, 自动化装载配置各种模块, 只需一个依赖
+Spring Boot Like Autoconfiguration 自动进行模块间装载和配置
+
+
+
 
 
 
