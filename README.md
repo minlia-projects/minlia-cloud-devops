@@ -8,11 +8,13 @@ curl https://pastebin.com/raw/6rJ3LwcL | sh
 ```
 
 
-## 关于Cloud Devops
+## 关于Minlia Cloud Devlops
+一款现代化, 敏捷,便利, 优雅的WEB应用架构Style.
 
 
 ### 关于数据持久化层
-MYBATIS和Data JPA
+[MYBATIS和Data JPA](https://github.com/minlia-projects/minlia-modules/blob/dev/will/module-data/data.md)
+
 
 
 
