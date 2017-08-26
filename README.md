@@ -33,7 +33,7 @@ SuccessResponseBody extends StatefulBody extends Body
 
 ### 便利的异常处理机制
 
-传统的异常处理机制与校验
+#### 传统的异常处理机制与校验
 
 ```
 if(null!=user){
@@ -42,7 +42,7 @@ if(null!=user){
 
 ```
 
-MINLIA姿势的异常处理与校验
+#### MINLIA姿势的异常处理与校验
 ```
 ApiPreconditions.checkNotNull(user,ApiCode.USER_NOT_FOUND);
 
@@ -78,7 +78,8 @@ languageCreationService.initialLanguage(code,message);
 
 
 ### 组件化开发模式, 自动化装载配置各种模块, 只需一个依赖
-Spring Boot Like Autoconfiguration 自动进行模块间装载和配置
+Spring Boot Like Autoconfiguration 自动进行模块间装载和配置, 使每个组件或应用在开发时具有自启动或使用其它组件的能力
+
 
 
 
