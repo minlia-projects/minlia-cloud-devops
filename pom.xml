@@ -15,5 +15,6 @@
     <module>minlia-thirdparty</module>
     <module>minlia-modules</module>
     <module>sample-app-rebecca</module>
+    <module>sample-app-petstore</module>
   </modules>
 </project>
