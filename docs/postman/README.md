@@ -7,7 +7,7 @@
 
 #### POSTMAN基础请参考: 
 [简书文章](http://www.jianshu.com/p/dd0db1b13cfc)
-
+[基于Postman的API自动化测试](https://segmentfault.com/a/1190000005055899)
 
 ### 文件结构说明 
 dev.postman_environment.json               开发环境的变量定义, 与开发环境相对应的可能会有sit uat production等相关环境的定义,此文件来自于postman的GUI程序, 使用导出功能得到此文件 

@@ -83,6 +83,11 @@ Spring Boot Like Autoconfiguration 自动进行模块间装载和配置, 使每�
 
 
 
+### 自动化接口测试
+
+[REST API Testing Automation](https://github.com/minlia-projects/minlia-cloud-devops/blob/dev/will/docs/postman/README.md)
+
+
 
 
 
