@@ -10,3 +10,6 @@
 [submodule "sample-app-rebecca"]
 	path = sample-app-rebecca
 	url = ../sample-app-rebecca.git
+[submodule "sample-app-petstore"]
+	path = sample-app-petstore
+	url = ../sample-app-petstore.git

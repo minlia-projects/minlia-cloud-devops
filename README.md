@@ -8,11 +8,16 @@ curl https://pastebin.com/raw/6rJ3LwcL | sh
 ```
 
 
-## 关于Cloud Devops
+## 关于Minlia Cloud Devlops
+一款现代化, 敏捷,便利, 优雅的WEB应用架构Style.
 
 
 ### 关于数据持久化层
-MYBATIS和Data JPA
+[MYBATIS和Spring Data JPA](https://github.com/minlia-projects/minlia-modules/blob/dev/will/module-data/data.md)
+
+
+### 系统登录与认证
+[Spring Security + JWT](https://github.com/minlia-projects/minlia-modules/blob/dev/will/module-rebecca/security.md)
 
 
 
@@ -28,7 +33,7 @@ SuccessResponseBody extends StatefulBody extends Body
 
 ### 便利的异常处理机制
 
-传统的异常处理机制与校验
+#### 传统的异常处理机制与校验
 
 ```
 if(null!=user){
@@ -37,7 +42,7 @@ if(null!=user){
 
 ```
 
-MINLIA姿势的异常处理与校验
+#### MINLIA姿势的异常处理与校验
 ```
 ApiPreconditions.checkNotNull(user,ApiCode.USER_NOT_FOUND);
 
@@ -67,6 +72,24 @@ LanguageCreationService languageCreationService;
 ```
 languageCreationService.initialLanguage(code,message);
 ```
+
+
+### 面向前后端分离的架构
+
+
+### 组件化开发模式, 自动化装载配置各种模块, 只需一个依赖
+Spring Boot Like Autoconfiguration 自动进行模块间装载和配置, 使每个组件或应用在开发时具有自启动或使用其它组件的能力
+
+
+
+
+### 自动化接口测试
+
+[REST API Testing Automation](https://github.com/minlia-projects/minlia-cloud-devops/blob/dev/will/docs/postman/README.md)
+
+
+
+
 
 
 
